@@ -1,3 +1,3 @@
 * Print hello world
-display "Hello World"
+display "Hello, World!"
 
